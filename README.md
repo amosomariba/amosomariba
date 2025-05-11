@@ -38,3 +38,15 @@ Frameworks:   Django | Flask | Node.js
 Databases:    PostgreSQL | SQLite | MongoDB
 Dev Tools:    Git | Docker | Postman | GitHub Actions
 Environment:  Linux CLI | REST APIs | VS Code
+---
+
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-Send-blue?logo=gmail" alt="Email">
+</a>
+
+
+
+
